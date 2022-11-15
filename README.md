@@ -31,9 +31,9 @@ The following commands where used.
   
   git add .
   
-  git commit -m "First Commit"
+  git commit -m "initial commit"
   
-  git push 
+  git push origin master
 ```
 On the target Server with docker
 
